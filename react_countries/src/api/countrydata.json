@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "countryName": "World",
+    "capital": "No Capital",
+    "population": 8050000000,
+    "interestingFact": "The world population crossed 8 billion in 2022 and continues to grow steadily."
+  },
+  {
+    "id": 2,
+    "countryName": "Nepal",
+    "capital": "Kathmandu",
+    "population": 30500000,
+    "interestingFact": "Nepal is home to Mount Everest, the highest peak on Earth at 8,848.86 meters."
+  },
+  {
+    "id": 3,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 112000000,
+    "interestingFact": "Egypt's Nile River is the longest river in the world, stretching over 6,650 km."
+  },
+  {
+    "id": 4,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 26800000,
+    "interestingFact": "Australia is the only country that is also a continent."
+  },
+  {
+    "id": 5,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 216000000,
+    "interestingFact": "Brazil has the largest rainforest in the world — the Amazon."
+  },
+  {
+    "id": 6,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 65000000,
+    "interestingFact": "France is the most visited country in the world."
+  },
+  {
+    "id": 7,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 144000000,
+    "interestingFact": "Russia spans 11 time zones, more than any other country."
+  },
+  {
+    "id": 8,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1410000000,
+    "interestingFact": "China has the largest population in the world after India (as of recent estimates)."
+  }
+]
